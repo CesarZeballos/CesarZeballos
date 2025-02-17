@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Cesar Zeballos</h1>
-<h3 align="center">I am a web developer focused on frontend. I have experience in UX/UI design and backend development. I have experience in TypeScript and other libraries and frameworks. With emphasis on NextJS, JavaScript, React, Redux, Taildwind and Figma (design).</h3>
+<h1 align="center">Hi 👋, I'm Cesar Zeballos</h1> <h3 align="center">Frontend Developer | UX/UI Designer | Full Stack Enthusiast</h3>
+💻 Soy un desarrollador Full Stack especializado en Frontend, con experiencia en UX/UI y Backend. Me apasiona crear soluciones innovadoras alineadas con las necesidades del negocio y la experiencia del usuario.
 
-- 🔭 I’m currently working on [Queens Annes Revenge](https://github.com/CesarZeballos/QueenAnnesRevenge-Front)
+🔹 Tengo experiencia en tecnologías como TypeScript, React, Next.js, Redux, Tailwind, NestJS y Firebase, y aplico metodologías ágiles como Scrum en mis proyectos.
+🔹 Cuento con una formación en Diseño UX/UI y Administración de Empresas, lo que me permite integrar diseño y desarrollo de manera eficiente.
+🔹 Me adapto fácilmente a equipos multidisciplinarios y entornos dinámicos, con un enfoque en la escalabilidad y el rendimiento.
 
-- 🌱 I’m currently learning **NextJS, Vite**
-
-- 👯 I’m looking to collaborate on [Stream Games Tournaments](https://github.com/CesarZeballos/StreamGamesTournaments)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **cesarEzeballos@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cesarezeballos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cesarezeballos/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/cesarzeballos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/cesarzeballos" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🚀 Proyectos Destacados
+Quality Soft Service App: Plataforma de gestión para empresas de construcción.
+Stream Games Tournaments: Plataforma web para torneos de E-Sports con chat en tiempo real.
+Liquors: Web para reseñas y recomendaciones de bebidas alcohólicas.
+📚 Mejorando mis habilidades en
+React Native, Next.js y Vite para optimizar el rendimiento y desarrollar experiencias multiplataforma.
+🔹 Mis especialidades
+React, Redux, Next.js, NestJS, UX/UI Design
+📫 Contáctame: cesarEzeballos@gmail.com
